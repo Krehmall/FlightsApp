@@ -4,6 +4,7 @@ In this App I used [React+Vite](https://vitejs.dev/guide/) with **NodeJs** as ba
 This one was made with **Chakra**, which is have alot of ready components.
 So there is no need to deal with **CSS+HTML**
 I also used ***Router Provider***, and some base hooks like a ***UseState***.
+To run this App [NodeJs](https://nodejs.org/en/download/current) is required to be installed.
 
 
 ### How to run the App:
