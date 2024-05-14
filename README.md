@@ -17,4 +17,4 @@ To run this App [NodeJs](https://nodejs.org/en/download/current) is required to 
 ### Description:
 
 Simple login as pin code "*12345*"
-At main page you see all "*Flights*" ,all **CRUD** funcs is availble here and sorting too.
+At main page you see all ***Flights*** ,all **CRUD** funcs is availble here and sorting too.
